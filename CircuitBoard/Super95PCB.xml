@@ -1,0 +1,3513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Projects\Numpad\NumpadPCB\NumpadPCB.kicad_sch</source>
+    <date>2/3/2022 3:24:15 PM</date>
+    <tool>Eeschema (6.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Super 95</title>
+        <company>Runaway Systems</company>
+        <rev>0.2.0</rev>
+        <date/>
+        <source>NumpadPCB.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eba35633-a4c6-487e-9339-0d083e01e331</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ee8d81c-8480-45d7-97a1-59cef5ec88cc</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c4df9d80-323a-4430-a33e-57b6d117fea2</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46ed4c7f-fcba-42bb-931b-c88b00e4363b</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0170f8e-42d5-49c8-a5dc-06b8bac6c23e</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c652fd47-ff60-4c96-859f-664efec62895</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a13e1ac5-5eb6-4e46-a47e-1eb0b6078c86</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c086c74b-fa9b-4734-bf1e-bd49b32ee7e7</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61aec294-2b0f-4052-aed3-c5b2acc7d244</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e86e2a9d-02d9-418d-95c3-755f6f6a29b1</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f5bf134-d2e7-4694-92ac-2a885a3b82e5</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3abd132-306b-4d5f-b39b-648757c2220a</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de21150c-42ad-45af-9827-4ef529dbb8ab</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>393f4293-8615-4af2-9518-0108e905da25</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87eabfbc-f614-4903-949a-81205df245f9</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>560a66e9-e393-4505-8ebb-3493cc910743</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a31d4bf-bed4-4b3f-b302-b9eeba711f21</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0ea5e1b-92fe-47c0-9b38-f35f95d1643a</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87388fa9-3d00-4031-b593-9e5fe4acda7a</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f15e21a1-7021-4b67-b6b3-6fe3239b76fe</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33766bdd-91ec-400c-9d08-76c4a830d743</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2734c38-d4ba-42a5-a66e-bd9928b00a1e</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f2af9a0-6aa8-4bbf-9515-c39337e5e598</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c6ce603-74d8-4c73-af46-c597b5e4db91</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf88b746-79bd-493c-8e33-1b1496adb0ab</tstamps>
+    </comp>
+    <comp ref="D26">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07ba964d-6259-486f-a98a-406ad01a8df7</tstamps>
+    </comp>
+    <comp ref="D27">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ad3dc1a-85ae-4ef1-9b93-ceb2fcd120fa</tstamps>
+    </comp>
+    <comp ref="D28">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f3c40e9-e6d1-43bc-a1c4-a66fd1a3fd2c</tstamps>
+    </comp>
+    <comp ref="D29">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d597ad3-5b90-46ac-9a34-66f9c20812e0</tstamps>
+    </comp>
+    <comp ref="D30">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d766422-e21b-4e1d-8886-30e017b71c03</tstamps>
+    </comp>
+    <comp ref="D31">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5aa01098-04cb-4e98-9751-2bfff21ceb39</tstamps>
+    </comp>
+    <comp ref="D32">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78a2c6dd-f411-4156-a355-7a68068001c4</tstamps>
+    </comp>
+    <comp ref="D33">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc2d9ec3-e52a-4194-80c3-a42158d2b656</tstamps>
+    </comp>
+    <comp ref="D34">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa2cdb01-b331-4de6-b9d7-f0c79ac9bb1e</tstamps>
+    </comp>
+    <comp ref="D35">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99e48d7d-6159-4f20-8ec4-82395c34a455</tstamps>
+    </comp>
+    <comp ref="D36">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38bd37ec-e2a3-4782-9768-0cf123cf609c</tstamps>
+    </comp>
+    <comp ref="D37">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b378b298-1c8b-407c-b895-cf6d7a664e22</tstamps>
+    </comp>
+    <comp ref="D38">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db09d67c-d3c8-4728-bc96-fd1c4c121539</tstamps>
+    </comp>
+    <comp ref="D39">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa40c262-90f3-4c9d-a47a-4ac0cbfc50c8</tstamps>
+    </comp>
+    <comp ref="D40">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b95d79f5-b5fc-4cb3-b95d-7ff622d9fa47</tstamps>
+    </comp>
+    <comp ref="D41">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce638235-facb-4016-b839-9e7541b0a2e2</tstamps>
+    </comp>
+    <comp ref="D42">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c889a3b4-e0cc-43a1-8d2a-32b0aca0934d</tstamps>
+    </comp>
+    <comp ref="D43">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24bc428f-9597-40b3-847a-5aecd8dc6522</tstamps>
+    </comp>
+    <comp ref="D44">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2d2efd3-1431-4548-a999-e136c9849770</tstamps>
+    </comp>
+    <comp ref="D45">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9241f0c-93e8-4384-9f00-7e4c517c5980</tstamps>
+    </comp>
+    <comp ref="D46">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59dd993d-6597-435d-968b-cad5c960ec86</tstamps>
+    </comp>
+    <comp ref="D47">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d4dfa4c-ded1-4a52-ae99-5c9b8b53df1b</tstamps>
+    </comp>
+    <comp ref="D48">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>25d9c026-a59e-4be2-ba57-416268baaf9c</tstamps>
+    </comp>
+    <comp ref="D49">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3f17e1c-8ad3-4394-93ae-7bc508766d6f</tstamps>
+    </comp>
+    <comp ref="D50">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c11ad864-60a3-4e4f-8cc6-919cfb082243</tstamps>
+    </comp>
+    <comp ref="D51">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c2ec435-9c07-4c5e-9473-3f03a98b78f5</tstamps>
+    </comp>
+    <comp ref="D52">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>717e3349-d99b-439d-926f-d45bc0c6e740</tstamps>
+    </comp>
+    <comp ref="D53">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>374e3855-ce3e-42cf-9c9e-282b7856b7a5</tstamps>
+    </comp>
+    <comp ref="D54">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6368b7a0-9990-47e3-a281-65d52eaeb205</tstamps>
+    </comp>
+    <comp ref="D55">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>564669d5-0299-401e-8570-3a6743d7966d</tstamps>
+    </comp>
+    <comp ref="D56">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49d24b33-a2bc-402d-92a2-2c170ff3963b</tstamps>
+    </comp>
+    <comp ref="D57">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff46bbce-5baf-43c1-bcbf-19d34ae927cf</tstamps>
+    </comp>
+    <comp ref="D58">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5bbe32ec-7c77-4004-9a46-ad5bc6c8847d</tstamps>
+    </comp>
+    <comp ref="D59">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c2dedb9-3fab-4742-8941-23d8e5d833e9</tstamps>
+    </comp>
+    <comp ref="D60">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04dd457b-b788-4124-8727-8a83f556e2e1</tstamps>
+    </comp>
+    <comp ref="D61">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc174963-9d31-4036-b7eb-74d88c345bea</tstamps>
+    </comp>
+    <comp ref="D62">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e663027-a65d-4425-adcb-33d3928d1862</tstamps>
+    </comp>
+    <comp ref="D63">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>86975832-6379-426c-9cf1-b2b829d34054</tstamps>
+    </comp>
+    <comp ref="D64">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e43b90d-7af1-4068-9642-a58b624846f9</tstamps>
+    </comp>
+    <comp ref="D65">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43fc3849-7ddf-4752-b416-f0a990d910e5</tstamps>
+    </comp>
+    <comp ref="D66">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a97d3e99-ade0-4597-93d9-61872a5fabe5</tstamps>
+    </comp>
+    <comp ref="D67">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>148ff60b-5e47-43c0-812c-b8b3dae789e7</tstamps>
+    </comp>
+    <comp ref="D68">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d1a3f559-c75b-43db-a67a-1c7c144d8c1a</tstamps>
+    </comp>
+    <comp ref="D69">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6a0f5c7-e4db-4948-bef3-afb2700a230f</tstamps>
+    </comp>
+    <comp ref="D70">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34f09661-2686-45af-a4ed-66e792008d15</tstamps>
+    </comp>
+    <comp ref="D71">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ffe91a6e-1798-4b41-b8d7-9344f44332fd</tstamps>
+    </comp>
+    <comp ref="D72">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>628d56eb-70e7-4e70-a048-621481d900d6</tstamps>
+    </comp>
+    <comp ref="D73">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49120325-c675-4e29-b676-5a807f2358b9</tstamps>
+    </comp>
+    <comp ref="D74">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0397c832-a048-4529-9e2c-10a5b95320cb</tstamps>
+    </comp>
+    <comp ref="D75">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>262b0c1a-8edf-49c4-99da-5f83c60069a3</tstamps>
+    </comp>
+    <comp ref="D76">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd1520d0-80c9-4b5b-95b3-463a8b67859f</tstamps>
+    </comp>
+    <comp ref="D77">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7fdec04e-6615-48d6-910b-3f9a0c74d22b</tstamps>
+    </comp>
+    <comp ref="D78">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b8cb57b-3ae4-4847-bbb5-343ecb9356be</tstamps>
+    </comp>
+    <comp ref="D79">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0fd9438-3a61-47cc-835a-d92f2438b1a0</tstamps>
+    </comp>
+    <comp ref="D80">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>169803cf-be11-46cc-870c-8bb62b64343e</tstamps>
+    </comp>
+    <comp ref="D81">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>407b22d4-9d51-4f3a-9b4e-3f8babbe09e5</tstamps>
+    </comp>
+    <comp ref="D82">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>deee804f-2d2b-45b1-9e50-5bfecdb7c2cf</tstamps>
+    </comp>
+    <comp ref="D83">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60c48159-a60e-49b4-9322-e28737929763</tstamps>
+    </comp>
+    <comp ref="D84">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7829c11-a0a2-4470-a9e5-7c923922124a</tstamps>
+    </comp>
+    <comp ref="D85">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9312ca7e-db3f-45fe-8cb6-222325264e27</tstamps>
+    </comp>
+    <comp ref="D86">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>86c445d2-4c92-4405-83c6-facec31d04d1</tstamps>
+    </comp>
+    <comp ref="D87">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35752590-0e7a-45be-9d81-60fb08609917</tstamps>
+    </comp>
+    <comp ref="D88">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c70fe77d-3bc7-46c7-b009-e586c2215047</tstamps>
+    </comp>
+    <comp ref="D89">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>218e3dd5-4e92-4c55-8d04-687be9f07c66</tstamps>
+    </comp>
+    <comp ref="D90">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>067ec410-0dff-4944-a75c-b23f99002595</tstamps>
+    </comp>
+    <comp ref="D91">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ccc4368-0d1b-4201-a9db-4b317be22675</tstamps>
+    </comp>
+    <comp ref="D92">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce7a517d-939c-4fb3-9e04-603752eb0933</tstamps>
+    </comp>
+    <comp ref="D93">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e20e42e-c567-46b2-aa58-1a4a2d5c29e3</tstamps>
+    </comp>
+    <comp ref="D94">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b34c2c68-fe10-419e-b5b6-f49571c80b47</tstamps>
+    </comp>
+    <comp ref="D95">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14bacfde-b38f-4480-a57d-8e94890e2b94</tstamps>
+    </comp>
+    <comp ref="D96">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e8c0cdb-e04a-4905-805b-9296ebfd9e8d</tstamps>
+    </comp>
+    <comp ref="D97">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef48cf3e-4e50-4a8b-957a-39007ed05c72</tstamps>
+    </comp>
+    <comp ref="D98">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b450ffa-c35b-47ee-b8ab-089ed09928fb</tstamps>
+    </comp>
+    <comp ref="D99">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6349ec46-5184-402f-a46d-37d629a62742</tstamps>
+    </comp>
+    <comp ref="D100">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74db875b-221d-4a9e-9a63-13af0c93dcfe</tstamps>
+    </comp>
+    <comp ref="D101">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99b81c1a-a5f2-45df-8209-19e49b42e6da</tstamps>
+    </comp>
+    <comp ref="D102">
+      <value>DIODE</value>
+      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54cf691e-4fe0-4585-b8e2-d03d761a4405</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Serial To Keyboard</value>
+      <footprint>AudioConnectors:Jack_3.5mm_CUI_SJ1-3533NG_Horizontal</footprint>
+      <libsource lib="Connector" part="AudioJack4" description="Audio Jack, 4 Poles (TRRS)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>85f64358-aa90-40da-a8a4-59b04559059f</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Serial To Numpad</value>
+      <footprint>AudioConnectors:Jack_3.5mm_CUI_SJ1-3533NG_Horizontal</footprint>
+      <libsource lib="Connector" part="AudioJack4" description="Audio Jack, 4 Poles (TRRS)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ffa607b5-4f88-4f71-8553-2a01387b0c9f</tstamps>
+    </comp>
+    <comp ref="RV1">
+      <value>Volume1</value>
+      <footprint>Potentiometers:Potentiometer_TT_P0915N</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56e5903c-9674-4dd2-85e8-b45f81d311b6</tstamps>
+    </comp>
+    <comp ref="RV2">
+      <value>Volume2</value>
+      <footprint>Potentiometers:Potentiometer_TT_P0915N</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31b7145f-43fa-42c4-9d85-19a14a57286e</tstamps>
+    </comp>
+    <comp ref="RV3">
+      <value>Volume3</value>
+      <footprint>Potentiometers:Potentiometer_TT_P0915N</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eeff06ce-5dd6-48ad-98cf-4489d7624b9c</tstamps>
+    </comp>
+    <comp ref="RV4">
+      <value>Volume4</value>
+      <footprint>Potentiometers:Potentiometer_TT_P0915N</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>efc37a68-5d48-447b-ac0e-d60b41fc94c1</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>Num Lock</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24e41ef5-6ddc-48d9-928c-cbf3afc36d9e</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>/</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1653e81-82e2-4f26-bc1c-cbf6a333bcd9</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>*</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a301ffbf-b26f-47a9-9821-7908cf134615</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>-</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0d517f2-45b5-4acf-8b5a-aff1decc02bc</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>7</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a17e6a7-0078-44a2-bbd1-5e2fc5ae0bbf</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>8</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d0aac72-6e60-4af2-a71d-57d2a45d353a</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>9</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c7da0b7-de7e-42f8-89f4-61b6ea30ce1a</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>RP2040_Feather</value>
+      <footprint>Module:Adafruit_Feather</footprint>
+      <libsource lib="NatesKicadSymbols" part="RP2040_Feather" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cbbba3e7-2c4f-4389-b486-7448e61a5715</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>4</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8abcb2bc-885b-44d6-a3ac-491c8918f499</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>5</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57b46fb8-d193-4b04-8245-5335d1e946bb</tstamps>
+    </comp>
+    <comp ref="U11">
+      <value>6</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a48d4992-6940-4867-9e3e-0bbe9990a6b3</tstamps>
+    </comp>
+    <comp ref="U12">
+      <value>+</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_2.00u_90deg</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66f35433-617e-483a-bb3f-6e872b5e0245</tstamps>
+    </comp>
+    <comp ref="U13">
+      <value>1</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5684c591-56a2-441b-a4cf-956ae052de0c</tstamps>
+    </comp>
+    <comp ref="U14">
+      <value>2</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4624d70c-e0bb-4b81-a38d-195ad982d968</tstamps>
+    </comp>
+    <comp ref="U15">
+      <value>3</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f9a7763-fe07-45f2-a893-db7c217617d5</tstamps>
+    </comp>
+    <comp ref="U16">
+      <value>0</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_2.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61ffc5c9-675e-4ec5-a695-a0e91a742f90</tstamps>
+    </comp>
+    <comp ref="U17">
+      <value>.</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>619f4e4e-c867-4dca-92cf-1429d175f3ad</tstamps>
+    </comp>
+    <comp ref="U18">
+      <value>Enter</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_2.00u_90deg</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52ddca1e-8142-42c6-be6e-80889ba34eb7</tstamps>
+    </comp>
+    <comp ref="U19">
+      <value>Escape</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>051e7d1c-6a5b-495f-98b9-53296b8f988d</tstamps>
+    </comp>
+    <comp ref="U20">
+      <value>F1</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e5fe8bb-7b6c-49b9-ba9d-7bcb6ca6ec39</tstamps>
+    </comp>
+    <comp ref="U21">
+      <value>F2</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f29a85df-c125-4844-b586-c1bcb5f23342</tstamps>
+    </comp>
+    <comp ref="U22">
+      <value>F3</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51225763-97c3-4747-bc0a-3cc2d564d73d</tstamps>
+    </comp>
+    <comp ref="U23">
+      <value>F4</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>322b4da8-3786-4e19-b60a-264aa256fee9</tstamps>
+    </comp>
+    <comp ref="U24">
+      <value>F5</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c10fe882-d0c6-4d01-8105-c15a551b4c6b</tstamps>
+    </comp>
+    <comp ref="U25">
+      <value>F6</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a6526aa2-3922-4758-bd34-53155eec27f5</tstamps>
+    </comp>
+    <comp ref="U26">
+      <value>F7</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab89d0e0-58b8-4477-84bf-9ea5655e6b5e</tstamps>
+    </comp>
+    <comp ref="U27">
+      <value>F8</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d55a0308-0d17-48d3-829c-a163d921c114</tstamps>
+    </comp>
+    <comp ref="U28">
+      <value>F9</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68407d9a-64fa-46c5-9d0b-e9a5026c03b9</tstamps>
+    </comp>
+    <comp ref="U29">
+      <value>F10</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89d61cce-f6ef-4743-b536-0ae445f4349f</tstamps>
+    </comp>
+    <comp ref="U30">
+      <value>F11</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b249334-853f-46d1-8f5a-ed6d17e03c5f</tstamps>
+    </comp>
+    <comp ref="U31">
+      <value>F12</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>842eb045-2697-44a9-9321-117f49d0d97e</tstamps>
+    </comp>
+    <comp ref="U32">
+      <value>Insert</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f2efaac-0069-49b9-a8ba-0a5c4841277d</tstamps>
+    </comp>
+    <comp ref="U33">
+      <value>Tilda</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d12fa93-0b82-44ef-bda0-e29d517e74c3</tstamps>
+    </comp>
+    <comp ref="U34">
+      <value>1</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d45c7b0-0c16-4b82-b326-c091ebff0c21</tstamps>
+    </comp>
+    <comp ref="U35">
+      <value>2</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f7c08f0-b160-4e0a-b820-c2eb6b099d51</tstamps>
+    </comp>
+    <comp ref="U36">
+      <value>3</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f71e3f26-861c-49dc-9990-3dc36634e6e7</tstamps>
+    </comp>
+    <comp ref="U37">
+      <value>4</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a1ac216-b55d-489b-b0dc-2a5de726e089</tstamps>
+    </comp>
+    <comp ref="U38">
+      <value>5</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3c76d76-a370-4677-bb89-1ca5860b4caf</tstamps>
+    </comp>
+    <comp ref="U39">
+      <value>6</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f6bd947-14f1-4469-9d8b-0c3655710f8e</tstamps>
+    </comp>
+    <comp ref="U40">
+      <value>7</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ecd4340-9373-4654-bbc2-156163233d70</tstamps>
+    </comp>
+    <comp ref="U41">
+      <value>8</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1768ead3-e86e-4398-9292-3f75f55ceabb</tstamps>
+    </comp>
+    <comp ref="U42">
+      <value>9</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2645c67-371f-4dd8-b30c-2ea845108388</tstamps>
+    </comp>
+    <comp ref="U43">
+      <value>0</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8549d98-8291-4453-8543-8fd8e040fed9</tstamps>
+    </comp>
+    <comp ref="U44">
+      <value>-</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9fabf28-a055-4163-aa98-51c8b487a672</tstamps>
+    </comp>
+    <comp ref="U45">
+      <value>=</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01c7c987-2f2e-4baa-82be-6542fbd2ed91</tstamps>
+    </comp>
+    <comp ref="U46">
+      <value>Backspace</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_2.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0355ce5a-99c6-4574-8394-591e8f51666e</tstamps>
+    </comp>
+    <comp ref="U47">
+      <value>Tab</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.50u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84603998-818f-4e28-985f-ce0d4e0b11c1</tstamps>
+    </comp>
+    <comp ref="U48">
+      <value>Q</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cfaf7f40-e8e6-40cf-8a33-764777306412</tstamps>
+    </comp>
+    <comp ref="U49">
+      <value>W</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a43246de-6b2c-4f8a-a916-e23fc4f3c218</tstamps>
+    </comp>
+    <comp ref="U50">
+      <value>E</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a244528-da9a-4e6a-a5c0-877f22516860</tstamps>
+    </comp>
+    <comp ref="U51">
+      <value>R</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16d90f33-e5e2-48fb-a07f-668e5fac071c</tstamps>
+    </comp>
+    <comp ref="U52">
+      <value>T</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32aba22b-6dc4-4940-983c-c8da35a0826a</tstamps>
+    </comp>
+    <comp ref="U53">
+      <value>Y</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>108854f1-125f-48ba-836e-c05f4846a587</tstamps>
+    </comp>
+    <comp ref="U54">
+      <value>U</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b2b23b0-d1c5-45c2-9c7f-7aa927496a3b</tstamps>
+    </comp>
+    <comp ref="U55">
+      <value>I</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c88bd866-75a4-4f8c-a362-5059deba3769</tstamps>
+    </comp>
+    <comp ref="U56">
+      <value>O</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7990d469-c4a4-4e70-a21d-1c1ca18c2e84</tstamps>
+    </comp>
+    <comp ref="U57">
+      <value>P</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6970e3b-ecca-4035-b9de-1e85a9ccf9df</tstamps>
+    </comp>
+    <comp ref="U58">
+      <value>[</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ecc29b6a-6881-4fa8-8a17-0f29e46d98d3</tstamps>
+    </comp>
+    <comp ref="U59">
+      <value>]</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e23dd388-0952-4257-a369-e1e435317580</tstamps>
+    </comp>
+    <comp ref="U60">
+      <value>\</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.50u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ef5a4c3-221a-4100-9cb5-a474a8c23ea4</tstamps>
+    </comp>
+    <comp ref="U61">
+      <value>Caps Lock</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.75u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5df699bb-0f83-4071-ade0-b611f7d2221d</tstamps>
+    </comp>
+    <comp ref="U62">
+      <value>A</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6742fa50-67de-495d-b781-0ecdf75518ac</tstamps>
+    </comp>
+    <comp ref="U63">
+      <value>S</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d876296-7ce4-47a6-ad92-95c0e4d49391</tstamps>
+    </comp>
+    <comp ref="U64">
+      <value>D</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1aa9ea8c-c6e6-4c84-b8dc-18cc1c5cc337</tstamps>
+    </comp>
+    <comp ref="U65">
+      <value>F</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e207b449-21b8-4a66-96ac-44f7a19f6f7e</tstamps>
+    </comp>
+    <comp ref="U66">
+      <value>G</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3af0b17f-c697-4000-b5e6-54877e9e6f6b</tstamps>
+    </comp>
+    <comp ref="U67">
+      <value>H</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5fdadef5-5e89-47a0-994d-0d3699aa03d5</tstamps>
+    </comp>
+    <comp ref="U68">
+      <value>J</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4aef3fa-7260-417b-aea3-a24bbd4f8fee</tstamps>
+    </comp>
+    <comp ref="U69">
+      <value>K</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a541eeb-7aa4-4c95-97ea-3d1364cfe88f</tstamps>
+    </comp>
+    <comp ref="U70">
+      <value>L</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>449a516e-484e-48f5-ab46-683ad3702c3f</tstamps>
+    </comp>
+    <comp ref="U71">
+      <value>;</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ede05e3-5b5c-429c-8ea6-0dc4caeae4cf</tstamps>
+    </comp>
+    <comp ref="U72">
+      <value>'</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e57506e2-431f-4e78-b5f6-03445a4aa508</tstamps>
+    </comp>
+    <comp ref="U73">
+      <value>Enter</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_2.25u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60183fe1-17b7-4bb6-89d6-3a5cc7d9a544</tstamps>
+    </comp>
+    <comp ref="U74">
+      <value>Home</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a382bb5-73cf-4f44-a05d-20239aef800f</tstamps>
+    </comp>
+    <comp ref="U75">
+      <value>RP2040_Feather</value>
+      <footprint>Module:Adafruit_Feather</footprint>
+      <libsource lib="NatesKicadSymbols" part="RP2040_Feather" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>86465007-7dc3-4d38-bfac-f98915c3ae26</tstamps>
+    </comp>
+    <comp ref="U76">
+      <value>Left Shift</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_2.25u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>220ba1c9-0159-4389-a672-33ed2510f8af</tstamps>
+    </comp>
+    <comp ref="U77">
+      <value>Z</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0d4d477-52ca-4308-a7d7-99c7f50ca580</tstamps>
+    </comp>
+    <comp ref="U78">
+      <value>X</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>032a5766-508a-4413-93c2-e59eeec3bad2</tstamps>
+    </comp>
+    <comp ref="U79">
+      <value>C</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef816734-4a62-43b9-a666-e9a4f520ac6f</tstamps>
+    </comp>
+    <comp ref="U80">
+      <value>V</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>731e4f3b-f077-4f04-9471-395efd7ac661</tstamps>
+    </comp>
+    <comp ref="U81">
+      <value>B</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c3d5202-00d7-4e54-9d30-36ddaf97ce2f</tstamps>
+    </comp>
+    <comp ref="U82">
+      <value>N</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7bc74420-7d03-441d-b194-95e589270ac1</tstamps>
+    </comp>
+    <comp ref="U83">
+      <value>M</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>095cea81-f036-4563-8f70-2f8f273b38b5</tstamps>
+    </comp>
+    <comp ref="U84">
+      <value>,</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa027696-811f-4fce-8561-b3d799e3af62</tstamps>
+    </comp>
+    <comp ref="U85">
+      <value>.</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>09482d90-8e36-4d01-a1a4-f240f055b0a3</tstamps>
+    </comp>
+    <comp ref="U86">
+      <value>/</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c693ab9-ab34-4f32-9852-0fcc1d9397a1</tstamps>
+    </comp>
+    <comp ref="U87">
+      <value>Right Shift</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_2.75u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90aa26cb-ee92-4d42-b64b-db6ee4c6e46a</tstamps>
+    </comp>
+    <comp ref="U88">
+      <value>Up Arrow</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59eca514-7e57-4404-a673-b607db01192c</tstamps>
+    </comp>
+    <comp ref="U89">
+      <value>Page Up</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7165d8b5-28d1-40f3-aa1f-b931069aeeb0</tstamps>
+    </comp>
+    <comp ref="U90">
+      <value>Left Ctrl</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.25u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b340fecc-7e55-46df-bc8d-3e572b2039e3</tstamps>
+    </comp>
+    <comp ref="U91">
+      <value>Left Cmd</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.25u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b027dfe8-bc12-48e9-a189-89487898a574</tstamps>
+    </comp>
+    <comp ref="U92">
+      <value>Left Alt</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.25u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5aa10e37-a293-4adf-894e-406e32ded7b6</tstamps>
+    </comp>
+    <comp ref="U93">
+      <value>Spacebar</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_6.25u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>067e95f0-5335-4d33-99dd-060177d7d962</tstamps>
+    </comp>
+    <comp ref="U94">
+      <value>Function1</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd268743-71b7-48a5-ae34-73c065515acf</tstamps>
+    </comp>
+    <comp ref="U95">
+      <value>Function2</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>903de8d4-f465-495d-a4dc-dcae0c6390f5</tstamps>
+    </comp>
+    <comp ref="U96">
+      <value>Function3</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd992119-8c1f-4ee3-85f3-fcd1189aa04d</tstamps>
+    </comp>
+    <comp ref="U97">
+      <value>Function4</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87164916-93ae-4140-86aa-59470124ec1a</tstamps>
+    </comp>
+    <comp ref="U98">
+      <value>Delete</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>519046f2-3eea-4b9a-9ae3-df665b132aeb</tstamps>
+    </comp>
+    <comp ref="U99">
+      <value>Left Arrow</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5f77cfa-558d-4cfa-a4bf-895ac56880a8</tstamps>
+    </comp>
+    <comp ref="U100">
+      <value>Down Arrow</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>86352324-d157-4145-8db6-ef12621ee0c0</tstamps>
+    </comp>
+    <comp ref="U101">
+      <value>Right Arrow</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>226695d7-0ea5-4ce4-bb38-1923055e505b</tstamps>
+    </comp>
+    <comp ref="U102">
+      <value>End</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b875657-58d6-4685-9b70-236cd681564d</tstamps>
+    </comp>
+    <comp ref="U103">
+      <value>Page Down</value>
+      <footprint>NatesLibrary:Kailh_Choc_V2_Hotswap_1.00u</footprint>
+      <datasheet>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</datasheet>
+      <libsource lib="NatesKicadSymbols" part="Kailh_Choc_V2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="NumpadPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a6a76e92-f98c-4cd0-9700-a46d6fec9514</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="AudioJack4">
+      <description>Audio Jack, 4 Poles (TRRS)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">AudioJack4</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="R1" name="" type="passive"/>
+        <pin num="R2" name="" type="passive"/>
+        <pin num="S" name="" type="passive"/>
+        <pin num="T" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Potentiometer">
+      <description>Potentiometer</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="NatesKicadSymbols" part="Kailh_Choc_V2">
+      <docs>https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</docs>
+      <fields>
+        <field name="Reference">U?</field>
+        <field name="Value">Kailh_Choc_V2</field>
+        <field name="Footprint">Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB</field>
+        <field name="Datasheet">https://www.kailhswitch.com/Content/upload/pdf/202015927/PG135301D03.pdf?rnd=797</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="bidirectional"/>
+        <pin num="2" name="" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="NatesKicadSymbols" part="RP2040_Feather">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">RP2040_Feather</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Reset" type="bidirectional"/>
+        <pin num="2" name="3.3V" type="power_out"/>
+        <pin num="3" name="3.3V" type="power_out"/>
+        <pin num="4" name="Ground" type="output"/>
+        <pin num="5" name="GPIO26" type="bidirectional"/>
+        <pin num="6" name="GPIO27" type="bidirectional"/>
+        <pin num="7" name="GPIO28" type="bidirectional"/>
+        <pin num="8" name="GPIO29" type="bidirectional"/>
+        <pin num="9" name="GPIO24" type="bidirectional"/>
+        <pin num="10" name="GPIO25" type="bidirectional"/>
+        <pin num="11" name="GPIO18" type="bidirectional"/>
+        <pin num="12" name="GPIO19" type="bidirectional"/>
+        <pin num="13" name="GPIO20" type="bidirectional"/>
+        <pin num="14" name="GPIO1" type="bidirectional"/>
+        <pin num="15" name="GPIO0" type="bidirectional"/>
+        <pin num="16" name="GPIO6" type="bidirectional"/>
+        <pin num="17" name="GPIO2" type="bidirectional"/>
+        <pin num="18" name="GPIO3" type="bidirectional"/>
+        <pin num="19" name="GPIO7" type="bidirectional"/>
+        <pin num="20" name="GPIO8" type="bidirectional"/>
+        <pin num="21" name="GPIO9" type="bidirectional"/>
+        <pin num="22" name="GPIO10" type="bidirectional"/>
+        <pin num="23" name="GPIO11" type="bidirectional"/>
+        <pin num="24" name="GPIO12" type="bidirectional"/>
+        <pin num="25" name="GPIO13" type="bidirectional"/>
+        <pin num="26" name="VBUS" type="bidirectional"/>
+        <pin num="27" name="EN" type="bidirectional"/>
+        <pin num="28" name="VBAT" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Simulation_SPICE" part="DIODE">
+      <description>Diode, anode on pin 1, for simulation only!</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">DIODE</field>
+        <field name="Datasheet">~</field>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="K" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="NatesKicadSymbols">
+      <uri>C:/Projects/NatesKicadSymbols.kicad_sym</uri>
+    </library>
+    <library logical="Simulation_SPICE">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Simulation_SPICE.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Collumn0">
+      <node ref="D1" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D10" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D100" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D101" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D102" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D11" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D12" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D13" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D14" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D15" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D16" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D17" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D18" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D75" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D76" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D77" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D78" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D79" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D80" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D81" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D82" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D83" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D84" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D85" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D86" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D87" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D88" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D89" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D90" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D91" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D92" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D93" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D94" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D95" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D96" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D97" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D98" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D99" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="RV1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="RV2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="RV3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="RV4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="2" pintype="bidirectional"/>
+      <node ref="U10" pin="2" pintype="bidirectional"/>
+      <node ref="U100" pin="2" pintype="bidirectional"/>
+      <node ref="U101" pin="2" pintype="bidirectional"/>
+      <node ref="U102" pin="2" pintype="bidirectional"/>
+      <node ref="U103" pin="2" pintype="bidirectional"/>
+      <node ref="U11" pin="2" pintype="bidirectional"/>
+      <node ref="U12" pin="2" pintype="bidirectional"/>
+      <node ref="U13" pin="2" pintype="bidirectional"/>
+      <node ref="U14" pin="2" pintype="bidirectional"/>
+      <node ref="U15" pin="2" pintype="bidirectional"/>
+      <node ref="U16" pin="2" pintype="bidirectional"/>
+      <node ref="U17" pin="2" pintype="bidirectional"/>
+      <node ref="U18" pin="2" pintype="bidirectional"/>
+      <node ref="U19" pin="2" pintype="bidirectional"/>
+      <node ref="U2" pin="2" pintype="bidirectional"/>
+      <node ref="U20" pin="2" pintype="bidirectional"/>
+      <node ref="U21" pin="2" pintype="bidirectional"/>
+      <node ref="U22" pin="2" pintype="bidirectional"/>
+      <node ref="U23" pin="2" pintype="bidirectional"/>
+      <node ref="U24" pin="2" pintype="bidirectional"/>
+      <node ref="U25" pin="2" pintype="bidirectional"/>
+      <node ref="U26" pin="2" pintype="bidirectional"/>
+      <node ref="U27" pin="2" pintype="bidirectional"/>
+      <node ref="U28" pin="2" pintype="bidirectional"/>
+      <node ref="U29" pin="2" pintype="bidirectional"/>
+      <node ref="U3" pin="2" pintype="bidirectional"/>
+      <node ref="U30" pin="2" pintype="bidirectional"/>
+      <node ref="U31" pin="2" pintype="bidirectional"/>
+      <node ref="U32" pin="2" pintype="bidirectional"/>
+      <node ref="U33" pin="2" pintype="bidirectional"/>
+      <node ref="U34" pin="2" pintype="bidirectional"/>
+      <node ref="U35" pin="2" pintype="bidirectional"/>
+      <node ref="U36" pin="2" pintype="bidirectional"/>
+      <node ref="U37" pin="2" pintype="bidirectional"/>
+      <node ref="U38" pin="2" pintype="bidirectional"/>
+      <node ref="U39" pin="2" pintype="bidirectional"/>
+      <node ref="U4" pin="2" pintype="bidirectional"/>
+      <node ref="U40" pin="2" pintype="bidirectional"/>
+      <node ref="U41" pin="2" pintype="bidirectional"/>
+      <node ref="U42" pin="2" pintype="bidirectional"/>
+      <node ref="U43" pin="2" pintype="bidirectional"/>
+      <node ref="U44" pin="2" pintype="bidirectional"/>
+      <node ref="U45" pin="2" pintype="bidirectional"/>
+      <node ref="U46" pin="2" pintype="bidirectional"/>
+      <node ref="U47" pin="2" pintype="bidirectional"/>
+      <node ref="U48" pin="2" pintype="bidirectional"/>
+      <node ref="U49" pin="2" pintype="bidirectional"/>
+      <node ref="U5" pin="2" pintype="bidirectional"/>
+      <node ref="U50" pin="2" pintype="bidirectional"/>
+      <node ref="U51" pin="2" pintype="bidirectional"/>
+      <node ref="U52" pin="2" pintype="bidirectional"/>
+      <node ref="U53" pin="2" pintype="bidirectional"/>
+      <node ref="U54" pin="2" pintype="bidirectional"/>
+      <node ref="U55" pin="2" pintype="bidirectional"/>
+      <node ref="U56" pin="2" pintype="bidirectional"/>
+      <node ref="U57" pin="2" pintype="bidirectional"/>
+      <node ref="U58" pin="2" pintype="bidirectional"/>
+      <node ref="U59" pin="2" pintype="bidirectional"/>
+      <node ref="U6" pin="2" pintype="bidirectional"/>
+      <node ref="U60" pin="2" pintype="bidirectional"/>
+      <node ref="U61" pin="2" pintype="bidirectional"/>
+      <node ref="U62" pin="2" pintype="bidirectional"/>
+      <node ref="U63" pin="2" pintype="bidirectional"/>
+      <node ref="U64" pin="2" pintype="bidirectional"/>
+      <node ref="U65" pin="2" pintype="bidirectional"/>
+      <node ref="U66" pin="2" pintype="bidirectional"/>
+      <node ref="U67" pin="2" pintype="bidirectional"/>
+      <node ref="U68" pin="2" pintype="bidirectional"/>
+      <node ref="U69" pin="2" pintype="bidirectional"/>
+      <node ref="U7" pin="2" pintype="bidirectional"/>
+      <node ref="U70" pin="2" pintype="bidirectional"/>
+      <node ref="U71" pin="2" pintype="bidirectional"/>
+      <node ref="U72" pin="2" pintype="bidirectional"/>
+      <node ref="U73" pin="2" pintype="bidirectional"/>
+      <node ref="U74" pin="2" pintype="bidirectional"/>
+      <node ref="U75" pin="10" pinfunction="GPIO25" pintype="bidirectional"/>
+      <node ref="U75" pin="11" pinfunction="GPIO18" pintype="bidirectional"/>
+      <node ref="U75" pin="12" pinfunction="GPIO19" pintype="bidirectional"/>
+      <node ref="U75" pin="13" pinfunction="GPIO20" pintype="bidirectional"/>
+      <node ref="U75" pin="14" pinfunction="GPIO1" pintype="bidirectional"/>
+      <node ref="U75" pin="15" pinfunction="GPIO0" pintype="bidirectional"/>
+      <node ref="U75" pin="16" pinfunction="GPIO6" pintype="bidirectional"/>
+      <node ref="U75" pin="17" pinfunction="GPIO2" pintype="bidirectional"/>
+      <node ref="U75" pin="18" pinfunction="GPIO3" pintype="bidirectional"/>
+      <node ref="U75" pin="19" pinfunction="GPIO7" pintype="bidirectional"/>
+      <node ref="U75" pin="20" pinfunction="GPIO8" pintype="bidirectional"/>
+      <node ref="U75" pin="5" pinfunction="GPIO26" pintype="bidirectional"/>
+      <node ref="U75" pin="6" pinfunction="GPIO27" pintype="bidirectional"/>
+      <node ref="U75" pin="7" pinfunction="GPIO28" pintype="bidirectional"/>
+      <node ref="U75" pin="8" pinfunction="GPIO29" pintype="bidirectional"/>
+      <node ref="U75" pin="9" pinfunction="GPIO24" pintype="bidirectional"/>
+      <node ref="U76" pin="2" pintype="bidirectional"/>
+      <node ref="U77" pin="2" pintype="bidirectional"/>
+      <node ref="U78" pin="2" pintype="bidirectional"/>
+      <node ref="U79" pin="2" pintype="bidirectional"/>
+      <node ref="U8" pin="17" pinfunction="GPIO2" pintype="bidirectional"/>
+      <node ref="U8" pin="18" pinfunction="GPIO3" pintype="bidirectional"/>
+      <node ref="U8" pin="19" pinfunction="GPIO7" pintype="bidirectional"/>
+      <node ref="U8" pin="20" pinfunction="GPIO8" pintype="bidirectional"/>
+      <node ref="U8" pin="21" pinfunction="GPIO9" pintype="bidirectional"/>
+      <node ref="U8" pin="22" pinfunction="GPIO10" pintype="bidirectional"/>
+      <node ref="U8" pin="23" pinfunction="GPIO11" pintype="bidirectional"/>
+      <node ref="U8" pin="24" pinfunction="GPIO12" pintype="bidirectional"/>
+      <node ref="U8" pin="25" pinfunction="GPIO13" pintype="bidirectional"/>
+      <node ref="U8" pin="4" pinfunction="Ground" pintype="output"/>
+      <node ref="U80" pin="2" pintype="bidirectional"/>
+      <node ref="U81" pin="2" pintype="bidirectional"/>
+      <node ref="U82" pin="2" pintype="bidirectional"/>
+      <node ref="U83" pin="2" pintype="bidirectional"/>
+      <node ref="U84" pin="2" pintype="bidirectional"/>
+      <node ref="U85" pin="2" pintype="bidirectional"/>
+      <node ref="U86" pin="2" pintype="bidirectional"/>
+      <node ref="U87" pin="2" pintype="bidirectional"/>
+      <node ref="U88" pin="2" pintype="bidirectional"/>
+      <node ref="U89" pin="2" pintype="bidirectional"/>
+      <node ref="U9" pin="2" pintype="bidirectional"/>
+      <node ref="U90" pin="2" pintype="bidirectional"/>
+      <node ref="U91" pin="2" pintype="bidirectional"/>
+      <node ref="U92" pin="2" pintype="bidirectional"/>
+      <node ref="U93" pin="2" pintype="bidirectional"/>
+      <node ref="U94" pin="2" pintype="bidirectional"/>
+      <node ref="U95" pin="2" pintype="bidirectional"/>
+      <node ref="U96" pin="2" pintype="bidirectional"/>
+      <node ref="U97" pin="2" pintype="bidirectional"/>
+      <node ref="U98" pin="2" pintype="bidirectional"/>
+      <node ref="U99" pin="2" pintype="bidirectional"/>
+    </net>
+    <net code="2" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="U8" pin="26" pinfunction="VBUS" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="Net-(D6-Pad1)">
+      <node ref="D6" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U5" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="Net-(D7-Pad1)">
+      <node ref="D7" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U6" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="Net-(D8-Pad1)">
+      <node ref="D8" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U7" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="Net-(D9-Pad1)">
+      <node ref="D9" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U9" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="Net-(D10-Pad1)">
+      <node ref="D10" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U10" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="Net-(D11-Pad1)">
+      <node ref="D11" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U11" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="Net-(D12-Pad1)">
+      <node ref="D12" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U12" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="Net-(D13-Pad1)">
+      <node ref="D13" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U13" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="Net-(D14-Pad1)">
+      <node ref="D14" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U14" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="Net-(D15-Pad1)">
+      <node ref="D15" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U15" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="Net-(D16-Pad1)">
+      <node ref="D16" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U16" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="Net-(D17-Pad1)">
+      <node ref="D17" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U17" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="Net-(D18-Pad1)">
+      <node ref="D18" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U18" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="Net-(D19-Pad1)">
+      <node ref="D19" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U19" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="Net-(D20-Pad1)">
+      <node ref="D20" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U20" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="Net-(D21-Pad1)">
+      <node ref="D21" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U21" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="Net-(D22-Pad1)">
+      <node ref="D22" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U22" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="Net-(D23-Pad1)">
+      <node ref="D23" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U23" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="Net-(D24-Pad1)">
+      <node ref="D24" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U24" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="Net-(D25-Pad1)">
+      <node ref="D25" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U25" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="Net-(D26-Pad1)">
+      <node ref="D26" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U26" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="Net-(D27-Pad1)">
+      <node ref="D27" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U27" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="Net-(D28-Pad1)">
+      <node ref="D28" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U28" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="Net-(D29-Pad1)">
+      <node ref="D29" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U29" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="Net-(D30-Pad1)">
+      <node ref="D30" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U30" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="Net-(D31-Pad1)">
+      <node ref="D31" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U31" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="Net-(D32-Pad1)">
+      <node ref="D32" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U32" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="Net-(D33-Pad1)">
+      <node ref="D33" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U33" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="Net-(D34-Pad1)">
+      <node ref="D34" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U34" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="Net-(D35-Pad1)">
+      <node ref="D35" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U35" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="Net-(D36-Pad1)">
+      <node ref="D36" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U36" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="Net-(D37-Pad1)">
+      <node ref="D37" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U37" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="Net-(D38-Pad1)">
+      <node ref="D38" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U38" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="Net-(D39-Pad1)">
+      <node ref="D39" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U39" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="Net-(D40-Pad1)">
+      <node ref="D40" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U40" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="Net-(D41-Pad1)">
+      <node ref="D41" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U41" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="Net-(D42-Pad1)">
+      <node ref="D42" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U42" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="Net-(D43-Pad1)">
+      <node ref="D43" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U43" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="45" name="Net-(D44-Pad1)">
+      <node ref="D44" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U44" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="Net-(D45-Pad1)">
+      <node ref="D45" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U45" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="Net-(D46-Pad1)">
+      <node ref="D46" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U46" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="Net-(D47-Pad1)">
+      <node ref="D47" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U47" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="Net-(D48-Pad1)">
+      <node ref="D48" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U48" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="Net-(D49-Pad1)">
+      <node ref="D49" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U49" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="Net-(D50-Pad1)">
+      <node ref="D50" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U50" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="Net-(D51-Pad1)">
+      <node ref="D51" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U51" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="Net-(D52-Pad1)">
+      <node ref="D52" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U52" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="54" name="Net-(D53-Pad1)">
+      <node ref="D53" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U53" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="55" name="Net-(D54-Pad1)">
+      <node ref="D54" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U54" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="56" name="Net-(D55-Pad1)">
+      <node ref="D55" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U55" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="Net-(D56-Pad1)">
+      <node ref="D56" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U56" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="58" name="Net-(D57-Pad1)">
+      <node ref="D57" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U57" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="59" name="Net-(D58-Pad1)">
+      <node ref="D58" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U58" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="60" name="Net-(D59-Pad1)">
+      <node ref="D59" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U59" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="61" name="Net-(D60-Pad1)">
+      <node ref="D60" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U60" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="62" name="Net-(D61-Pad1)">
+      <node ref="D61" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U61" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="63" name="Net-(D62-Pad1)">
+      <node ref="D62" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U62" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="64" name="Net-(D63-Pad1)">
+      <node ref="D63" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U63" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="65" name="Net-(D64-Pad1)">
+      <node ref="D64" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U64" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="66" name="Net-(D65-Pad1)">
+      <node ref="D65" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U65" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="67" name="Net-(D66-Pad1)">
+      <node ref="D66" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U66" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="68" name="Net-(D67-Pad1)">
+      <node ref="D67" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U67" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="69" name="Net-(D68-Pad1)">
+      <node ref="D68" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U68" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="70" name="Net-(D69-Pad1)">
+      <node ref="D69" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U69" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="71" name="Net-(D70-Pad1)">
+      <node ref="D70" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U70" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="72" name="Net-(D71-Pad1)">
+      <node ref="D71" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U71" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="73" name="Net-(D72-Pad1)">
+      <node ref="D72" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U72" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="74" name="Net-(D73-Pad1)">
+      <node ref="D73" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U73" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="75" name="Net-(D74-Pad1)">
+      <node ref="D74" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U74" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="76" name="Net-(D75-Pad1)">
+      <node ref="D75" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U76" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="77" name="Net-(D76-Pad1)">
+      <node ref="D76" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U77" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="78" name="Net-(D77-Pad1)">
+      <node ref="D77" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U78" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="79" name="Net-(D78-Pad1)">
+      <node ref="D78" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U79" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="80" name="Net-(D79-Pad1)">
+      <node ref="D79" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U80" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="81" name="Net-(D80-Pad1)">
+      <node ref="D80" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U81" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="82" name="Net-(D81-Pad1)">
+      <node ref="D81" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U82" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="83" name="Net-(D82-Pad1)">
+      <node ref="D82" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U83" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="84" name="Net-(D83-Pad1)">
+      <node ref="D83" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U84" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="85" name="Net-(D84-Pad1)">
+      <node ref="D84" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U85" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="86" name="Net-(D85-Pad1)">
+      <node ref="D85" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U86" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="87" name="Net-(D86-Pad1)">
+      <node ref="D86" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U87" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="88" name="Net-(D87-Pad1)">
+      <node ref="D87" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U88" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="89" name="Net-(D88-Pad1)">
+      <node ref="D88" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U89" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="90" name="Net-(D89-Pad1)">
+      <node ref="D89" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U90" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="91" name="Net-(D90-Pad1)">
+      <node ref="D90" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U91" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="92" name="Net-(D91-Pad1)">
+      <node ref="D91" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U92" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="93" name="Net-(D92-Pad1)">
+      <node ref="D92" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U93" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="94" name="Net-(D93-Pad1)">
+      <node ref="D93" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U94" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="95" name="Net-(D94-Pad1)">
+      <node ref="D94" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U95" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="96" name="Net-(D95-Pad1)">
+      <node ref="D95" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U96" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="97" name="Net-(D96-Pad1)">
+      <node ref="D96" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U97" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="98" name="Net-(D97-Pad1)">
+      <node ref="D97" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U98" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="99" name="Net-(D98-Pad1)">
+      <node ref="D98" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U99" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="100" name="Net-(D99-Pad1)">
+      <node ref="D99" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U100" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="101" name="Net-(D100-Pad1)">
+      <node ref="D100" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U101" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="102" name="Net-(D101-Pad1)">
+      <node ref="D101" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U102" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="103" name="Net-(D102-Pad1)">
+      <node ref="D102" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U103" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="104" name="Net-(J1-PadS)">
+      <node ref="J1" pin="S" pintype="passive"/>
+      <node ref="U8" pin="15" pinfunction="GPIO0" pintype="bidirectional"/>
+    </net>
+    <net code="105" name="Net-(J2-PadS)">
+      <node ref="J2" pin="S" pintype="passive"/>
+      <node ref="U75" pin="25" pinfunction="GPIO13" pintype="bidirectional"/>
+    </net>
+    <net code="106" name="Net-(J2-PadT)">
+      <node ref="J2" pin="T" pintype="passive"/>
+      <node ref="U75" pin="26" pinfunction="VBUS" pintype="bidirectional"/>
+    </net>
+    <net code="107" name="Net-(RV1-Pad2)">
+      <node ref="RV1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U8" pin="5" pinfunction="GPIO26" pintype="bidirectional"/>
+    </net>
+    <net code="108" name="Net-(RV2-Pad2)">
+      <node ref="RV2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U8" pin="6" pinfunction="GPIO27" pintype="bidirectional"/>
+    </net>
+    <net code="109" name="Net-(RV2-Pad3)">
+      <node ref="RV1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="RV2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="RV3" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="RV4" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U8" pin="3" pinfunction="3.3V" pintype="power_out"/>
+    </net>
+    <net code="110" name="Net-(RV3-Pad2)">
+      <node ref="RV3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U8" pin="7" pinfunction="GPIO28" pintype="bidirectional"/>
+    </net>
+    <net code="111" name="Net-(RV4-Pad2)">
+      <node ref="RV4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U8" pin="8" pinfunction="GPIO29" pintype="bidirectional"/>
+    </net>
+    <net code="112" name="Row0">
+      <node ref="D19" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D20" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D21" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D22" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D23" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D24" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D25" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D26" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D27" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D28" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D29" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D30" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D31" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D32" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="U75" pin="24" pinfunction="GPIO12" pintype="bidirectional"/>
+    </net>
+    <net code="113" name="Row1">
+      <node ref="D33" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D34" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D35" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D36" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D37" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D38" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D39" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D40" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D41" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D42" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D43" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D44" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D45" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D46" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="U75" pin="23" pinfunction="GPIO11" pintype="bidirectional"/>
+    </net>
+    <net code="114" name="Row2">
+      <node ref="D47" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D48" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D49" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D50" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D51" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D52" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D53" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D54" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D55" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D56" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D57" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D58" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D59" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D60" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="U75" pin="22" pinfunction="GPIO10" pintype="bidirectional"/>
+    </net>
+    <net code="115" name="Row3">
+      <node ref="D61" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D62" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D63" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D64" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D65" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D66" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D67" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D68" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D69" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D70" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D71" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D72" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D73" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D74" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="U75" pin="21" pinfunction="GPIO9" pintype="bidirectional"/>
+    </net>
+    <net code="116" name="TRRS 5V">
+      <node ref="D5" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="T" pintype="passive"/>
+    </net>
+    <net code="117" name="unconnected-(J1-PadR1)">
+      <node ref="J1" pin="R1" pintype="passive"/>
+    </net>
+    <net code="118" name="unconnected-(J1-PadR2)">
+      <node ref="J1" pin="R2" pintype="passive"/>
+    </net>
+    <net code="119" name="unconnected-(J2-PadR1)">
+      <node ref="J2" pin="R1" pintype="passive"/>
+    </net>
+    <net code="120" name="unconnected-(J2-PadR2)">
+      <node ref="J2" pin="R2" pintype="passive"/>
+    </net>
+    <net code="121" name="unconnected-(U8-Pad1)">
+      <node ref="U8" pin="1" pinfunction="Reset" pintype="bidirectional"/>
+    </net>
+    <net code="122" name="unconnected-(U8-Pad2)">
+      <node ref="U8" pin="2" pinfunction="3.3V" pintype="power_out"/>
+    </net>
+    <net code="123" name="unconnected-(U8-Pad9)">
+      <node ref="U8" pin="9" pinfunction="GPIO24" pintype="bidirectional"/>
+    </net>
+    <net code="124" name="unconnected-(U8-Pad10)">
+      <node ref="U8" pin="10" pinfunction="GPIO25" pintype="bidirectional"/>
+    </net>
+    <net code="125" name="unconnected-(U8-Pad11)">
+      <node ref="U8" pin="11" pinfunction="GPIO18" pintype="bidirectional"/>
+    </net>
+    <net code="126" name="unconnected-(U8-Pad12)">
+      <node ref="U8" pin="12" pinfunction="GPIO19" pintype="bidirectional"/>
+    </net>
+    <net code="127" name="unconnected-(U8-Pad13)">
+      <node ref="U8" pin="13" pinfunction="GPIO20" pintype="bidirectional"/>
+    </net>
+    <net code="128" name="unconnected-(U8-Pad14)">
+      <node ref="U8" pin="14" pinfunction="GPIO1" pintype="bidirectional"/>
+    </net>
+    <net code="129" name="unconnected-(U8-Pad16)">
+      <node ref="U8" pin="16" pinfunction="GPIO6" pintype="bidirectional"/>
+    </net>
+    <net code="130" name="unconnected-(U8-Pad27)">
+      <node ref="U8" pin="27" pinfunction="EN" pintype="bidirectional"/>
+    </net>
+    <net code="131" name="unconnected-(U8-Pad28)">
+      <node ref="U8" pin="28" pinfunction="VBAT" pintype="bidirectional"/>
+    </net>
+    <net code="132" name="unconnected-(U75-Pad1)">
+      <node ref="U75" pin="1" pinfunction="Reset" pintype="bidirectional"/>
+    </net>
+    <net code="133" name="unconnected-(U75-Pad2)">
+      <node ref="U75" pin="2" pinfunction="3.3V" pintype="power_out"/>
+    </net>
+    <net code="134" name="unconnected-(U75-Pad3)">
+      <node ref="U75" pin="3" pinfunction="3.3V" pintype="power_out"/>
+    </net>
+    <net code="135" name="unconnected-(U75-Pad4)">
+      <node ref="U75" pin="4" pinfunction="Ground" pintype="output"/>
+    </net>
+    <net code="136" name="unconnected-(U75-Pad27)">
+      <node ref="U75" pin="27" pinfunction="EN" pintype="bidirectional"/>
+    </net>
+    <net code="137" name="unconnected-(U75-Pad28)">
+      <node ref="U75" pin="28" pinfunction="VBAT" pintype="bidirectional"/>
+    </net>
+  </nets>
+</export>

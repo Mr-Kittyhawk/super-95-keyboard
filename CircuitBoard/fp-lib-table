@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Super95Footprints")(type "KiCad")(uri "${KIPRJMOD}/Super95Footprints.pretty")(options "")(descr ""))
+)

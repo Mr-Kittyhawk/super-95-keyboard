@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Super95Footprints")(type "KiCad")(uri "C:/Projects/Super-95-Keyboard/CircuitBoard/Super95Footprints.pretty")(options "")(descr ""))
+)
